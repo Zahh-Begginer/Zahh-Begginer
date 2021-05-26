@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Zahh, a begginer who need help in c#
+- 👀 I’m interested in programming bot to automate my task or task of others
+- 🌱 I’m currently learning c# again
